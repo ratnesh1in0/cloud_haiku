@@ -30,7 +30,8 @@ author:
 
 Keep the layout as `haiku`. Next to the `title:` put the title of your haiku. Next to the `author:` put your name (this can be just your first name or a pseudonym if you would like).
 
-Under this heading, you'll put your haiku.
+Under this heading, you'll put your haiku. 
+Any misplaced haiku might make problem to locate, so try to put it under proper heading.
 
 ### Writing a Haiku
 
@@ -64,7 +65,7 @@ A-cross the net-work  # 5 syllables
 
 In order to verify that you're using the right number of syllables, you can use a tool such as [http://www.haikusyllablecounter.com](http://www.haikusyllablecounter.com).
 
-Many forms of poetry have specific aesthetic rules to follow. This challenge makes writing poetry an enjoyable art form.
+Many forms of poetry have specific aesthetic rules to follow. This challenge makes writing poetry an enjoyable art form. You are free to follow any form of poetry in here!
 
 ### Line Breaks
 
